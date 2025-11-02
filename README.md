@@ -1,6 +1,6 @@
 ![sad.ovh logo](https://sad.ovh/assets/logo.png "sad.ovh")
 <center>
-    <h1><a href="https://sad.ovh">sad.ovh</a></h1>
+    <h1><p style="text-align:center"><a href="https://sad.ovh">sad.ovh</a></p></h1>
 </center>
 
 ### Skills
